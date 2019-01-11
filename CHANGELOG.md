@@ -14,3 +14,5 @@
 - Clean up temporary files (2019-5-9 11:75:00)
 - Fix bugs (2019-1-1 9:43:00)
 
+- Code cleanup (2019-1-11 14:53:00)
+
